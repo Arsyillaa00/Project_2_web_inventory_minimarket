@@ -1,0 +1,2 @@
+# Project_2_web_inventory_minimarket
+menggunakan bahasa pemrograman Python
